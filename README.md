@@ -299,33 +299,6 @@ memory-os/
 
 ---
 
-## 🎬 Demo Video Outline
-
-1. **Introduction** (30s)
-   - Problem statement recap
-   - Architecture overview
-
-2. **Live Demo** (3 min)
-   - Scenario 1: Boss name recall
-   - Scenario 2: Year-based temporal query
-   - Scenario 3: Entity deduplication
-
-3. **Analytics Showcase** (1 min)
-   - Memory timeline chart
-   - Confidence score tracking
-   - Entity network visualization
-
-4. **Technical Deep Dive** (1 min)
-   - Vector search mechanics
-   - Threshold logic explanation
-   - Temporal boosting demo
-
-5. **Conclusion** (30s)
-   - Key achievements
-   - Future enhancements
-
----
-
 ## 🔮 Future Enhancements
 
 1. **Multi-user support** - Separate memory spaces
