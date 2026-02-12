@@ -336,8 +336,7 @@ MIT License - Open Source
 ## 📞 Contact
 
 For questions or demo requests:
-- Email: [your-email]
-- GitHub: [your-repo]
+- Email: priyanshuib01@gmail.com
 
 ---
 
